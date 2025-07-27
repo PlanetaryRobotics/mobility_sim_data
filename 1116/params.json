@@ -1,6 +1,6 @@
 {
-	"slip": 0.2,
+	"slip": 0.15,
 	"scale": 20,
     "batch": 5027,
-    "label": "5027 20x 0.2 slip, tall wheel baseline 1"
+    "label": "5027 20x 0.15 slip, tall baseline 1"
 }
