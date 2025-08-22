@@ -1,3 +1,6 @@
 {
-	"slip": 0.5
+	"slip": 0.5, 
+	"scale": 20,
+    "batch": 5031,
+    "label": "5031 20x 0.5 slip"
 }
